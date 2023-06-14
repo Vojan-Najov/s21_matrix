@@ -15,3 +15,9 @@ Implementation of the matrix library.
 - [instructions for testing EN](./materials/instructions_for_testing.md)
 - [instructions for testing RU](./materials/instructions_for_testing_rus.md)
 
+## Project
+
+- '$> make' to compile library.
+- '$> make test; ./test' to run unit tests.
+- '$> make gcov_report' to run code coverage. The report is located gcov_report/index.html.
+
