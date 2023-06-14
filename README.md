@@ -17,7 +17,7 @@ Implementation of the matrix library.
 
 ## Project
 
-- '$> make' to compile library.
-- '$> make test; ./test' to run unit tests.
-- '$> make gcov_report' to run code coverage. The report is located gcov_report/index.html.
+- `$> make` to compile library.
+- `$> make test; ./test` to run unit tests.
+- `$> make gcov_report` to run code coverage. The report is located gcov_report/index.html.
 
