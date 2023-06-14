@@ -9,7 +9,7 @@ Implementation of the matrix library.
 
 ## Materials
 
-- [7 principles of structural programming](./material/7_principles_of_structural_programminh.md)
+- [7 principles of structural programming](./material/7_principles_of_structural_programming.md)
 - [from developers EN](./materials/from_developers.txt)
 - [from developers RU](./materials/from_developers_rus.txt)
 - [instructions for testing EN](./materials/instructions_for_testing.md)
